@@ -2,5 +2,9 @@
 
 ## Prerequisites
 
-- be Linux
+- Linux only
 - install `powertop` 
+
+## Output
+
+return the systeme baseline power
